@@ -20,7 +20,7 @@ int main()
     else
     {
         int third = x / 100;
-        int second = x %
+        int second = (x %100)/10;
     }
     return 0;
 }

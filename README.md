@@ -11,5 +11,5 @@ This repository serves as a personal archive so others can benefit from it
 ---
 
 ## 📁 Folder Structure
-[semester 2](semester 2/)
-[semester 3](semester 3/)
+* 📁 [**Semester 1**](./semester 2/)
+* 📁 [**Semester 2**](./semester 3/)

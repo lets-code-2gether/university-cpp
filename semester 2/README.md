@@ -1,7 +1,13 @@
 # semester 2
 
-1-semester 1 revision question:
+## 1/semester 1 revision question:
 
 ![Screenshot](../images/screenshot_lecture_0.png)
 
 answer: [here](sem_1_review.cpp)
+---
+## 2/ factorial finder:
+
+![Screenshot](../images/photo_2026-11-04_22-23-12.jpg)
+
+answer: [here](factorial.cpp)

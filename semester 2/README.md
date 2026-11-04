@@ -12,11 +12,11 @@ answer: [here](sem_1_review.cpp)
 
 answer: [here](factorial.cpp)
 ---
-## 3/ three homeworks:
+ 3/ three homeworks:
 
 ![Screenshot](<../images/Screenshot 2026-11-04 at 23-13-22 C PROGRAMMING - Practical Lecture 1.pdf.png>)
 
-#### answers:
+## answers:
 [1](<print real nums.cpp>)
 
 [2](average.cpp)

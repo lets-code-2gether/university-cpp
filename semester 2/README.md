@@ -1,6 +1,6 @@
 # semester 2
 
-## 1/semester 1 revision question:
+## 1/ semester 1 revision question:
 
 ![Screenshot](../images/screenshot_lecture_0.png)
 
